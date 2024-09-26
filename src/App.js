@@ -29,7 +29,7 @@ function App() {
       <Router>
         <Routes>
           <Route
-            path="/vertex"
+            path="/24n12grafos"
             element={
               <Box textAlign="center" fontSize="xl" bgColor={Cores.rich_black_fogra_39}>
                 <Center minH="100vh">
