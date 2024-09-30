@@ -56,8 +56,8 @@ function GraphView(props) {
       },
       color: {
         color: Cores.mauve,
-        highlight: Cores.lavender_floral,
-        hover: Cores.lavender_floral,
+        highlight: Cores.middle_Yellow,
+        hover: Cores.middle_Yellow,
         inherit: 'from',
         opacity: 1.0,
       },
